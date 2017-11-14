@@ -19,7 +19,7 @@ MaxSize=48
 [actions/16]
 Size=16
 Context=Actions
-Type=Fixed
+Type=Scalable
 
 [actions/22]
 Size=22
