@@ -38,7 +38,7 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#636363"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -51,14 +51,14 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="-5.1864407"
+     inkscape:cx="-18.372881"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
-     style="fill:#1A1D20;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8048782"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8048782"
      d="M 12.1325,7.544751 C 11.36225,5.395251 9.7287498,3.464751 7.9999998,2 6.2712498,3.464751 4.6385002,5.395251 3.8675003,7.544751 c -0.47625,1.329 -0.5235,2.772 0.14775,4.047749 C 4.7870003,13.058751 6.3432498,14 7.9999998,14 9.6567498,14 11.213,13.058751 11.98475,11.5925 12.656,10.316751 12.60875,8.8745 12.1325,7.544751 Z"
      id="path4276-3"
      inkscape:connector-curvature="0" />
